@@ -1,3 +1,3 @@
 # NodeAPI
 
-API em Node JS para a aplicação em Angular
+API REST em Node JS utilizando o MySQL para a aplicação em "Carros" em Angular 
